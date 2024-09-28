@@ -27,7 +27,6 @@ This project highlights my ability to apply data analytics skills in a real-worl
 - **Methods**: KMeans clustering, scatter plots, heatmaps.
 
 ## Repository Contents
-- **data/**: Anonymized dataset used for analysis.
 - **scripts/**: R scripts for data analysis and visualization.
 - **notebooks/**: Jupyter notebook for interactive exploration of the data.
 
